@@ -66,7 +66,7 @@
 Домашнее задание выполните в файле readme.md в GitHub-репозитории. В личном кабинете отправьте на проверку ссылку на .md-файл в вашем репозитории.
 
 ## Решение 1
-![create-vm.png] (https://github.com/v1us1885/hw-05-virt-01-basics/blob/master/create-vm.png)
+![create-vm.png](https://github.com/v1us1885/hw-05-virt-01-basics/blob/master/create-vm.png)
 
 ## Решение 2
 
